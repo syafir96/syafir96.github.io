@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "page1.html",
+    "currentPage": "page3.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 35,
     "versionPublish": "4.4.1",
@@ -36,7 +36,9 @@
         "#f20b0b",
         "#680000"
       ]
-    }
+    },
+    "favicon": "",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
