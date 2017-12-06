@@ -1336,12 +1336,12 @@ body {
 }
 .cid-qB8kG585N1 .navbar {
   padding: .5rem 0;
-  background: #073b4c;
+  background: #2e2e2e;
   transition: none;
   min-height: 77px;
 }
 .cid-qB8kG585N1 .navbar-dropdown.bg-color.transparent.opened {
-  background: #073b4c;
+  background: #2e2e2e;
 }
 .cid-qB8kG585N1 a {
   font-style: normal;
@@ -1425,7 +1425,7 @@ body {
   padding-bottom: 0;
 }
 .cid-qB8kG585N1 .dropdown .dropdown-menu {
-  background: #073b4c;
+  background: #2e2e2e;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -1800,12 +1800,12 @@ body {
 }
 .cid-qB8kG585N1 .navbar {
   padding: .5rem 0;
-  background: #073b4c;
+  background: #2e2e2e;
   transition: none;
   min-height: 77px;
 }
 .cid-qB8kG585N1 .navbar-dropdown.bg-color.transparent.opened {
-  background: #073b4c;
+  background: #2e2e2e;
 }
 .cid-qB8kG585N1 a {
   font-style: normal;
@@ -1889,7 +1889,7 @@ body {
   padding-bottom: 0;
 }
 .cid-qB8kG585N1 .dropdown .dropdown-menu {
-  background: #073b4c;
+  background: #2e2e2e;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -2290,12 +2290,12 @@ body {
 }
 .cid-qB8kG585N1 .navbar {
   padding: .5rem 0;
-  background: #680000;
+  background: #2e2e2e;
   transition: none;
   min-height: 77px;
 }
 .cid-qB8kG585N1 .navbar-dropdown.bg-color.transparent.opened {
-  background: #680000;
+  background: #2e2e2e;
 }
 .cid-qB8kG585N1 a {
   font-style: normal;
@@ -2379,7 +2379,7 @@ body {
   padding-bottom: 0;
 }
 .cid-qB8kG585N1 .dropdown .dropdown-menu {
-  background: #680000;
+  background: #2e2e2e;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -2708,12 +2708,12 @@ body {
 }
 .cid-qB8kG585N1 .navbar {
   padding: .5rem 0;
-  background: #333333;
+  background: #2e2e2e;
   transition: none;
   min-height: 77px;
 }
 .cid-qB8kG585N1 .navbar-dropdown.bg-color.transparent.opened {
-  background: #333333;
+  background: #2e2e2e;
 }
 .cid-qB8kG585N1 a {
   font-style: normal;
@@ -2797,7 +2797,7 @@ body {
   padding-bottom: 0;
 }
 .cid-qB8kG585N1 .dropdown .dropdown-menu {
-  background: #333333;
+  background: #2e2e2e;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -3108,6 +3108,11 @@ body {
 }
 .cid-qBJ7MT6Khr .mbr-author-desc {
   color: #232;
+}
+.cid-qCZeJD9o54 {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #6670a9;
 }
 .cid-qBM5Tr3BjX {
   padding-top: 90px;
